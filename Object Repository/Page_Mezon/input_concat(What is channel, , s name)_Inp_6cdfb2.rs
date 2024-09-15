@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(What is channel, , s name)_Inp_6cdfb2</name>
+   <tag></tag>
+   <elementGuidId>3b97a73d-f485-42d2-ba16-07743cacc448</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='channelList']/div/div/div/div/div[3]/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8e87f0ce-bf2e-4587-9ed6-0b6bfc00deb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input grow shrink basis-0 h-10 outline-none dark:bg-neutral-950 bg-white dark:text-white text-black text-sm font-normal placeholder-[#AEAEAE]</value>
+      <webElementGuid>ec21c92e-87a4-4243-90a6-ed7e306ee4b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter the channel's name</value>
+      <webElementGuid>e5917a70-73b1-47de-9113-40a4d04556dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>64</value>
+      <webElementGuid>f7a29667-ceec-40a3-8cbe-e761b9b0119b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;channelList&quot;)/div[@class=&quot;w-[100vw] h-[100vh] overflow-hidden fixed top-0 left-0 z-50 bg-black bg-opacity-80 flex flex-row justify-center items-center&quot;]/div[@class=&quot;z-60 w-full h-full sm:w-4/5 sm:max-h-[570px] md:w-[684px] dark:bg-bgPrimary bg-bgLightModeSecond rounded-2xl flex-col justify-start  items-start gap-3 inline-flex&quot;]/div[@class=&quot;self-stretch md:h-96 flex-col justify-start items-start flex&quot;]/div[@class=&quot;self-stretch md:h-96 px-5 pt-8 flex-col justify-start items-start gap-3 flex&quot;]/div[@class=&quot;Frame408 self-stretch h-[84px] flex-col justify-start items-start gap-2 flex mt-1&quot;]/div[@class=&quot;ContentContainer self-stretch h-11 flex-col items-start flex&quot;]/div[@class=&quot;InputContainer self-stretch h-11 px-4 py-3 dark:bg-neutral-950 bg-white rounded shadow border w-full border-blue-600  justify-start items-center gap-2 inline-flex&quot;]/div[@class=&quot;InputValue grow shrink basis-0 self-stretch justify-start items-center flex&quot;]/input[@class=&quot;Input grow shrink basis-0 h-10 outline-none dark:bg-neutral-950 bg-white dark:text-white text-black text-sm font-normal placeholder-[#AEAEAE]&quot;]</value>
+      <webElementGuid>fca1dfff-97db-4310-afa1-9166b42dc7ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='channelList']/div/div/div/div/div[3]/div[2]/div/div/input</value>
+      <webElementGuid>abf86553-7cef-4c0c-b5dd-b0960640fc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/input</value>
+      <webElementGuid>5d26d317-72d1-48d4-aab2-a7228c6aa5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = concat(&quot;Enter the channel&quot; , &quot;'&quot; , &quot;s name&quot;)]</value>
+      <webElementGuid>abe1cde9-c998-4f9f-8975-3f56636c3ce8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in (1)</name>
+   <tag></tag>
+   <elementGuidId>3f102c8b-56a3-49f9-955a-dab59caead28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-layout']/div[2]/div/div/div/div/div[3]/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8001f7d5-9f1a-42ff-83f4-51e2954e8cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-col justify-start items-center flex w-full h-[48px] pt-3 pr-4 pb-3 pl-4 rounded-[4px] bg-[#155eef] </value>
+      <webElementGuid>7165707b-4848-47b1-8d3a-0f79e8249001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>f73d9dd1-209f-41cd-8897-782843bcc658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-layout&quot;)/div[2]/div[@class=&quot;w-screen h-screen  overflow-x-hidden overflow-y-scroll  scrollbar-hide flex items-center&quot;]/div[@class=&quot;justify-center items-center flex w-full h-full sm:max-h-[580px] sm:h-9/10 sm:max-w-[450px] lg:min-w-[850px] lg:max-h-[620px]  rounded-none sm:rounded-2xl lg:p-12 px-0 dark:bg-[#0b0b0b] bg-[#F0F0F0] flex-col mx-auto&quot;]/div[@class=&quot;relative top-0 flex-col pb-0 lg:top-0 lg:pb-0 flex lg:flex-row lg:gap-x-12 items-center w-full overflow-y-auto hide-scrollbar lg:overflow-y-visible&quot;]/div[@class=&quot;flex-col justify-start items-center flex h-fit p-0 gap-2 pb-2 lg:pb-0 md:gap-4 w-9/10&quot;]/div[@class=&quot;flex-col justify-start items-center flex lg:w-[496px] h-fit lg:px-0 w-450 max-w-full&quot;]/div[@class=&quot;flex-col justify-start items-start flex w-full h-fit gap-y-5&quot;]/div[@class=&quot;flex-col justify-start items-start flex w-full h-fit&quot;]/button[@class=&quot;flex-col justify-start items-center flex w-full h-[48px] pt-3 pr-4 pb-3 pl-4 rounded-[4px] bg-[#155eef]&quot;]</value>
+      <webElementGuid>da7eac05-5a04-443f-bd9a-e338500d46c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-layout']/div[2]/div/div/div/div/div[3]/div[2]/div[2]/button</value>
+      <webElementGuid>b143e5a8-2f36-4271-bbe9-335550f90544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/following::button[1]</value>
+      <webElementGuid>6b577580-a757-4d56-bc7a-4dfdf1e8c602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WELCOME BACK'])[1]/following::button[3]</value>
+      <webElementGuid>1139dc2e-8a35-4398-8b18-e65858e59462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::button[1]</value>
+      <webElementGuid>49ad73c3-00fc-4f69-b8a7-daa1eaa8d5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>6a4922a5-6006-4143-8f8d-3361a3055d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>2f09ad9f-cc5c-4c93-af24-deb5a8b341c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

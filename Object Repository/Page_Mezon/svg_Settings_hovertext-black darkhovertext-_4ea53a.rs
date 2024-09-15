@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Settings_hovertext-black darkhovertext-_4ea53a</name>
+   <tag></tag>
+   <elementGuidId>2dd45cf7-8511-4c68-bcac-06c19917ac2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>49e5d8a4-6aca-4f8b-bb4d-5eb18831b09c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>29991be4-6ba1-468b-b02f-820fcce0c048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>640d2fbd-a297-477c-bb6d-6629ce0cea1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a583df2a-5145-430d-b769-a5261273fe88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a8ad4540-c52f-4a42-9984-e82daefd2cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-black dark:hover:text-white size-6 dark:text-[#B5BAC1] text-colorTextLightMode</value>
+      <webElementGuid>fee6b96f-0c24-4ffd-bf6a-28fb9694c49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>fde9e0fd-d5ed-4938-a221-d2c2e57b4b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;flex h-screen text-gray-100 overflow-hidden relative dark:bg-bgPrimary bg-bgLightModeSecond&quot;]/div[@class=&quot;flex flex-row flex-1 bg-transparent&quot;]/div[@class=&quot;flex flex-col flex-1 shrink min-w-0 bg-transparent h-[100%] overflow-visible&quot;]/div[@class=&quot;flex h-heightTopBar p-3 min-w-0 items-cente flex-shrink dark:bg-bgPrimary bg-bgLightPrimary shadow-inner border-b-[1px] dark:border-bgTertiary border-bgLightTertiary false left-0&quot;]/div[@class=&quot;items-center h-full ml-auto flex&quot;]/div[@class=&quot;justify-end items-center gap-2 flex&quot;]/div[@class=&quot;hidden sbm:flex&quot;]/div[@class=&quot;relative justify-start items-center gap-[15px] flex mr-4&quot;]/div[@class=&quot;relative leading-5 h-5&quot;]/div[@class=&quot;w-fit&quot;]/button[@class=&quot;focus-visible:outline-none&quot;]/svg[@class=&quot;hover:text-black dark:hover:text-white size-6 dark:text-[#B5BAC1] text-colorTextLightMode&quot;]</value>
+      <webElementGuid>50f63360-4cf0-4c75-be5e-7926f04180a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>2e14bda9-e932-4693-b74d-5b5caa5b1c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>7b595d59-55eb-4b47-848f-9c8840904389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Threads'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5bbb3858-8ef1-46db-a0d8-bf3d65111fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Settings'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>3e99bcd6-0c07-4c44-a1cc-4852bc6aa9d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

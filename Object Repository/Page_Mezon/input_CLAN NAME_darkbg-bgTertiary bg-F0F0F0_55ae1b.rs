@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CLAN NAME_darkbg-bgTertiary bg-F0F0F0_55ae1b</name>
+   <tag></tag>
+   <elementGuidId>380f4528-d76e-45b9-af2b-6cb2efa56237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c4f5f85c-d242-419c-8aa0-640bbd142523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>01f1eec5-2e98-4f2f-86da-9aa5156be3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark:bg-bgTertiary bg-[#F0F0F0] font-[400]  px-[16px] rounded w-full dark:text-white text-black outline-none dark:bg-bgSurface bg-bgModifierHoverLight mb-2 mt-4 py-2 </value>
+      <webElementGuid>c3686294-c63a-4f41-98af-2d6502785d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>geBXclVQui's clan</value>
+      <webElementGuid>2bc9e36a-3421-481b-9764-c0333f158e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark wf-ggsans-n4-active wf-active&quot;]/body[1]/div[@class=&quot;justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-80 dark:text-white text-black hide-scrollbar overflow-hidden&quot;]/div[@class=&quot;relative w-full max-w-[684px] sm:h-auto h-full&quot;]/div[@class=&quot;border-0 rounded-lg shadow-lg relative flex flex-col w-full dark:bg-bgPrimary bg-bgLightModeSecond  outline-none focus:outline-none h-full sm:h-auto&quot;]/div[@class=&quot;relative px-5 py-4 flex-auto bg-transparent max-h-[500px] overflow-auto hide-scrollbar&quot;]/div[@class=&quot;dark:bg-[#323232] bg-bgLightModeSecond rounded-[5px] bg-transparent undefined&quot;]/div[@class=&quot;flex items-center flex-col justify-center&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/input[@class=&quot;dark:bg-bgTertiary bg-[#F0F0F0] font-[400]  px-[16px] rounded w-full dark:text-white text-black outline-none dark:bg-bgSurface bg-bgModifierHoverLight mb-2 mt-4 py-2&quot;]</value>
+      <webElementGuid>4919a7ef-0fc4-4735-82f1-0a1f1456fe53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>026ae1d2-85db-4991-a1b4-333b0b46a5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>420ed62b-8654-4745-af05-89ca1636c478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = concat(&quot;geBXclVQui&quot; , &quot;'&quot; , &quot;s clan&quot;)]</value>
+      <webElementGuid>1f00e7a8-2541-4043-b5c9-ee0ef85f4104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
